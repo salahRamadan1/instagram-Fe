@@ -1,0 +1,29 @@
+.imgAuth {
+    width: 150px;
+}
+.auth{
+    /* opacity: 0; */
+}
+.btnShared {
+
+    width: 80% ;
+    border: none;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bolder;
+    color: white;
+}
+
+.btnAuth {
+    background: linear-gradient(to right, #f094c6, #eb4d4b);
+
+}
+
+.CreateEmail {
+    background: linear-gradient(to right, #13be16, #8dcf77);
+ 
+  text-decoration: none;
+}
+ 

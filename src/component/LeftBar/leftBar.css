@@ -1,0 +1,15 @@
+.link-inactive{
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.link-active   {
+
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    border-radius: 50px;
+}

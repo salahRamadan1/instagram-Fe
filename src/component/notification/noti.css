@@ -1,0 +1,26 @@
+.imgNoti {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.search {
+    position: relative;
+}
+
+.iconeSearch {
+    position: absolute;
+    top: 15%;
+    right: 15%;
+
+}
+
+.iconeSearchClose {
+    position: absolute;
+    left: 15%;
+    top: 15%;
+
+}
+
+.mouseCursor {
+    cursor: pointer !important;
+}
